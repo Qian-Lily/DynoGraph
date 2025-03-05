@@ -95,7 +95,7 @@ If you used DynoGraph in your publication or utilized the implementation from th
 ```bibtex
 @inproceedings{qian2024dynograph,
   title={DynoGraph: Dynamic Graph Construction for Nonlinear Dimensionality Reduction},
-  author={Qian, Li and Plant, Claudia and Qin, Yalan and Qian, Jing and B{\"o}hm, Christian},
+  author={Qian, Li and Plant, Claudia and Qin, Yalan and Qian, Jing and Böhm, Christian},
   booktitle={2024 IEEE International Conference on Data Mining (ICDM)},
   pages={827--832},
   year={2024},
