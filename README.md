@@ -1,6 +1,6 @@
 # DynoGraph
 
-Source code for paper "DynoGraph: Dynamic Graph Construction for Nonlinear Dimensionality Reduction".
+This repository contains the source code for the paper **"DynoGraph: Dynamic Graph Construction for Nonlinear Dimensionality Reduction"**, which has been published at ICDM 2024.
 
 ## Requirements
 
@@ -87,3 +87,18 @@ To facilitate a thorough evaluation, DynoGraph compares its performance against 
   ```
   python test_real_data.py
   ```
+
+## Citation
+
+If you used DynoGraph in your publication or utilized the implementation from this repository, please cite our paper:
+
+```bibtex
+@inproceedings{qian2024dynograph,
+  title={DynoGraph: Dynamic Graph Construction for Nonlinear Dimensionality Reduction},
+  author={Qian, Li and Plant, Claudia and Qin, Yalan and Qian, Jing and B{\"o}hm, Christian},
+  booktitle={2024 IEEE International Conference on Data Mining (ICDM)},
+  pages={827--832},
+  year={2024},
+  organization={IEEE},
+  doi={10.1109/ICDM59182.2024.00100}
+}
